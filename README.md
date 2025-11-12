@@ -113,5 +113,6 @@ print(plan)
 ```
 ### OUTPUT:
 <img width="452" height="82" alt="image" src="https://github.com/user-attachments/assets/9b6e0fda-5c0f-4a03-bc71-126d2942ed3b" />
+
 ### RESULT:
 Therefore, Implementation of Classical Planning Algorithm is implemetated successfully.
